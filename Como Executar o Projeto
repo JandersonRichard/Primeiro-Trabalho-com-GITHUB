@@ -1,3 +1,17 @@
+Como Executar o Projeto
+
+Clone o repositório:
+
 git clone https://github.com/seuusuario/primeiro-projeto-ads.git
+
+
+Entre na pasta do projeto:
+
 cd primeiro-projeto-ads
+
+
+Execute o código:
+
+Caso seja Python:
+
 python src/main.py
