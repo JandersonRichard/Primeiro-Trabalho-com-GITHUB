@@ -1,0 +1,7 @@
+primeiro-projeto-ads/
+│
+├── src/               # Código-fonte do projeto
+├── docs/              # Documentação adicional (imagens, diagramas, etc.)
+├── .gitignore         # Arquivos/ pastas ignorados pelo Git
+├── README.md          # Documentação principal do projeto
+└── LICENSE            # Licença do projeto (opcional)
